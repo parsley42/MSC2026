@@ -6,7 +6,7 @@ title: Cozumel - Authentic Guide
 # Cozumel: Beyond the Pier
 *A curated guide for escaping the crowds and finding local San Miguel.*
 
-![Cozumel Street Art](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cozumel_Seafront_San_Miguel.jpg/800px-Cozumel_Seafront_San_Miguel.jpg)
+![Cozumel City](images/cozumel.jpg)
 
 ---
 
