@@ -34,7 +34,12 @@ Start your walk at **Plaza Benito Juárez**, the town’s central square. This i
 
 You’ll find benches, shade, families, vendors, and locals meeting friends or passing through. It’s an excellent place to orient yourselves and decide whether to head inland first or toward the water.
 
-Nearby are a small church, municipal buildings, and everyday shops — all signs you’re in the real town.
+A few nearby points worth a quick look if they’re open and feel appealing:
+
+* **San Miguel Church (Iglesia de San Miguel)** – Modest but central, often open during the day.
+* **Municipal Palace area** – Everyday civic life, not an attraction, but reinforces that you’re in a real town.
+
+Nearby are everyday shops and services — all signs you’re in the real town.
 
 ---
 
@@ -69,7 +74,14 @@ Good signs:
 * Menus on chalkboards or walls
 * Plastic chairs, quick turnover, relaxed atmosphere
 
-You’ll find strong options for tacos, guisados, seafood, and casual cafés within a 10–15 minute walk of the plaza.
+That said, a few *reliably local, walkable options* near Plaza Benito Juárez that consistently come up well-reviewed by locals and long‑time visitors:
+
+* **Taquería La Casita de Indio 333** – Classic Cozumel spot for tacos al pastor, cochinita pibil, and guisados. Busy, informal, and very local. A solid first food anchor.
+* **Los Sera’s** – Family-run, inland a few blocks, known for Yucatecan-style dishes and stews rather than tourist tacos.
+* **El Pique** – Popular with locals for tacos and tortas; fast-moving and no-nonsense.
+* **Guisados Don Chema** – Simple stewed meats served cafeteria-style; great for an early lunch and quick reset.
+
+Use these as *targets of opportunity*, not obligations. If something else smells better on the way, follow your nose.
 
 This is a good moment to slow down, hydrate, and people-watch.
 
