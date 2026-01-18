@@ -1,6 +1,4 @@
----
-
-## title: "Cozumel: San Miguel on Foot"
+## Cozumel: San Miguel on Foot
 
 ![San Miguel de Cozumel street scene](images/coz-street.jpg)
 
@@ -30,7 +28,7 @@ Taxis are plentiful, regulated, and straightforward. This quick hop cleanly remo
 
 ## Anchor Point: Plaza Benito Juárez
 
-![Plaza Benito Juárez](images/cozumel.jpg)
+![Plaza Benito Juárez](images/coz-plaza.jpg)
 
 Start your walk at **Plaza Benito Juárez**, the town’s central square. This is a lived-in space, not a tourist set piece.
 
@@ -42,7 +40,7 @@ Nearby are a small church, municipal buildings, and everyday shops — all signs
 
 ## Wandering Inland: Neighborhood Streets & Local Life
 
-![Neighborhood street in San Miguel](images/cozumel.jpg)
+![Neighborhood street in San Miguel](images/coz-neigh.jpg)
 
 From the plaza, walk **inland a few blocks** (away from the water). The further you get from the waterfront, the more the crowd thins and the more local the town feels.
 
@@ -61,7 +59,7 @@ This part of the day works well without a map — just wander, pause when someth
 
 ## Food Strategy (Local, Casual, Flexible)
 
-![Local tacos in Cozumel](images/cozumel.jpg)
+![Local tacos in Cozumel](images/coz-tacos.jpg)
 
 Rather than targeting a single restaurant, aim for **one main food stop** and allow room for a second if something catches your eye.
 
@@ -79,7 +77,7 @@ This is a good moment to slow down, hydrate, and people-watch.
 
 ## Optional Waterfront Loop
 
-![Avenida Rafael E. Melgar waterfront](images/cozumel.jpg)
+![Avenida Rafael E. Melgar waterfront](images/coz-water.jpg)
 
 If you want open views and a breeze, walk back toward **Avenida Rafael E. Melgar**, the main waterfront road.
 
