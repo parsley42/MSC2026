@@ -12,7 +12,7 @@ Welcome to our travel repository. This site contains our curated guides for gett
 * [Cozumel, per GPT](cozumel-gpt) - San Miguel on foot
 * [Georgetown, per GPT](georgetown-gpt) - Georgetown, South Sound
 * [Montego, per GPT](montego-gpt) - Montego Bay, Jamaica beaches
-* [Upcoming Port] - Notes coming soon.
+* Nassau, Bahamas, per GPT - Stay on the ship, and enjoy the quiet!
 
 ## Quick Links
 * [Packing List](packing)
