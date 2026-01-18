@@ -5,7 +5,7 @@ title: Home
 
 # MSC 2025 Cruise Log
 
-Welcome to our travel repository. This site contains our curated guides for getting away from the crowds and finding the "real" Mexico.
+Welcome to our travel repository. This site contains our curated guides for getting away from the crowds and finding real experiences.
 
 ## Port Guides
 * [San Miguel, Cozumel](cozumel-gemini) - Authentic food and craft beer.
