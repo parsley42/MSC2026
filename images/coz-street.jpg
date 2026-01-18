@@ -1,0 +1,13 @@
+--2026-01-18 14:49:01--  https://vivalatravelista.com/wp-content/uploads/2022/05/San-Miguel-de-Cozumel-2.jpg
+Resolving vivalatravelista.com (vivalatravelista.com)... 185.151.30.203, 2a07:7800::203
+Connecting to vivalatravelista.com (vivalatravelista.com)|185.151.30.203|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 137271 (134K) [image/jpeg]
+Saving to: ‘San-Miguel-de-Cozumel-2.jpg’
+
+     0K .......... .......... .......... .......... .......... 37%  324K 0s
+    50K .......... .......... .......... .......... .......... 74%  890K 0s
+   100K .......... .......... .......... ....                 100% 1.44M=0.2s
+
+2026-01-18 14:49:02 (573 KB/s) - ‘San-Miguel-de-Cozumel-2.jpg’ saved [137271/137271]
+
