@@ -1,0 +1,11 @@
+--2026-01-18 15:56:56--  https://www.palladiumhotelgroup.com/adobe/dynamicmedia/deliver/dm-aid--57a3f65d-2a18-4811-9ec4-5948c0c7aeb8/palladium_hotel_group_montego_bay_fletcher_beach.webp?preferwebp=true
+Resolving www.palladiumhotelgroup.com (www.palladiumhotelgroup.com)... 146.75.31.10
+Connecting to www.palladiumhotelgroup.com (www.palladiumhotelgroup.com)|146.75.31.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 112932 (110K) [image/webp]
+Saving to: ‘mobay-beach.jpg’
+
+mobay-beach.jpg                             0%[                                                                                    ]       0  --.-KB/s               mobay-beach.jpg                           100%[===================================================================================>] 110.29K  --.-KB/s    in 0.003s  
+
+2026-01-18 15:56:56 (32.8 MB/s) - ‘mobay-beach.jpg’ saved [112932/112932]
+

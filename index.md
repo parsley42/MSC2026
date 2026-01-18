@@ -9,8 +9,9 @@ Welcome to our travel repository. This site contains our curated guides for gett
 
 ## Port Guides
 * [San Miguel, Cozumel](cozumel-gemini) - Authentic food and craft beer.
-* [Cozumel, per ChatGPT](cozumel-gpt) - San Miguel on foot
+* [Cozumel, per GPT](cozumel-gpt) - San Miguel on foot
 * [Georgetown, per GPT](georgetown-gpt) - Georgetown, South Sound
+* [Montego, per GPT](montego-gpt) - Montego Bay, Jamaica beaches
 * [Upcoming Port] - Notes coming soon.
 
 ## Quick Links
