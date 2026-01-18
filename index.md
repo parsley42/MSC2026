@@ -8,9 +8,9 @@ title: Home
 Welcome to our travel repository. This site contains our curated guides for getting away from the crowds and finding the "real" Mexico.
 
 ## Port Guides
-* [San Miguel, Cozumel](cozumel.md) - Authentic food and craft beer.
+* [San Miguel, Cozumel](cozumel) - Authentic food and craft beer.
 * [Upcoming Port] - Notes coming soon.
 
 ## Quick Links
-* [Packing List](packing.md)
-* [Ship Logistics](msc-notes.md)
+* [Packing List](packing)
+* [Ship Logistics](msc-notes)
